@@ -2,6 +2,7 @@
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Nishant Iyer</h1>
@@ -11,17 +12,17 @@
 
 <p align="left"> <a href="https://twitter.com/nishantiyer26" target="blank"><img src="https://img.shields.io/twitter/follow/nishantiyer26?logo=twitter&style=for-the-badge" alt="nishantiyer26" /></a> </p>
 
-- 🔭 I’m currently working on [Ethereum Blockchain](https://ethereum.org/en/)
+- 🚀 I’m currently working on [Ethereum Blockchain](https://ethereum.org/en/)
 
-- 🌱 I’m currently learning **React Native, Cybersecurity, Java Server Side Programming**
+- 🌱 I’m currently learning **Dart, Cybersecurity, Java Server Side Programming**
 
-- 👯 I’m looking to collaborate on **a social media app better than insta**
+- 💪 I'm fluent with Python,C,Dart (not at all the java bitch)
 
-- ♨ I'm currently making Discord bots and Python Frameworks [Proxima](https://discord.com/api/oauth2/authorize?client_id=947363163081412681&permissions=8&scope=bot)
+- ♨ I'm currently making Python Frameworks for Various Blockchains 
 
-- 👨‍💻 All of my projects are available at [https://me.nishant69.repl.co/](https://me.nishant69.repl.co/)
+- 👨‍🎓 A 13 year old student in GIS, Madinaguda who lives on dopamine, caffeine and testosterone ;)(yup) 
 
-- 👨‍🎓 I'm a student @ Genesis International School **Grade 9**
+- 🖕 Working 24/7 and always fucked up
 
 - 📫 How to reach me **hackr.nb65@outlook.com or Nishant#8662 is my discord id.**
 
@@ -31,7 +32,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/nishantiyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nishantiyer" height="30" width="40" /></a>
 <a href="https://twitter.com/nishantiyer26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishantiyer26" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/wbVeRh9s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wbVeRh9s" height="30" width="40" /></a>
+<a href="https://discord.gg/wbVeRh9s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wbVeRh9s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

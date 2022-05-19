@@ -27,7 +27,7 @@
 - 📫 How to reach me **hackr.nb65@outlook.com or Nishant#8662 is my discord id.**
 
 - ⚡ Fun fact **I didn't even spend a shit to learn to code**
-<a href="https://app.daily.dev/Nishant26"><img src="https://api.daily.dev/devcards/93a467fb1c934c37875a6a44b3d5749b.png?r=6ui" width="400" alt="Nishant Iyer's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/nishantiyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nishantiyer" height="30" width="40" /></a>

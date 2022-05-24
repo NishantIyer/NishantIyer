@@ -24,7 +24,7 @@
 
 - 🖕 Working 24/7 and always fucked up
 
-- 📫 How to reach me **hackr.nb65@outlook.com or Nishant#8662 is my discord id.**
+- 📫 How to reach me **hackr.anon6969@outlook.com or Nishant#8662 is my discord id.**
 
 - ⚡ Fun fact **I didn't even spend a shit to learn to code**
 

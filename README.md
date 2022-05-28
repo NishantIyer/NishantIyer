@@ -20,7 +20,7 @@
 
 - ♨ I'm currently making Python Frameworks for Various Blockchains 
 
-- 👨‍🎓 A 13 year old student in GIS, Madinaguda.
+- 👨‍🎓 A 13 year old student in GIS, Madinaguda. 
 
 - 🖕 Working 24/7.
 

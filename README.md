@@ -24,7 +24,7 @@
 
 - 🖕 Working 24/7.
 
-- 📫 How to reach me **hackr.anon6969@outlook.com or Nishant#8662 is my discord id.**
+- 📫 How to reach me **pentest_nishant2609@proton.me or Nishant#8662 is my discord id.**
 
 - ⚡ Fun fact **I didn't even spend a shit to learn to code**
 

@@ -5,7 +5,7 @@
 - The contents under [portenacode](https://github.com/orgs/portenacode/) is stricly licenced under international IP laws.
 - These repositories contain my personal projects I built to solve my own problems along with some documentation and are not intended for commercial/community use. Please follow my alt. account for projects for Open Source.
 - If you are interested in my work or want to collaborate, please contact me @ [proton](mailto:nishantiyer@proton.me)
-```html
+  ```html
 <div id="f6s-jobs-244e17"></div>
 <script type="text/javascript">
 var F6S_v1 = F6S_v1 || {};
